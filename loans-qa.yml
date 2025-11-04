@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to loans QA local API's"
+  contactDetails:
+    name: "Arjun(LoansQA)"
+    email: "Arjun@gmail.com"
+  onCallSupport:
+    - (444) 555-1234
+    - (444) 523-1345

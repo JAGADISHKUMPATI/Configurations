@@ -1,0 +1,13 @@
+
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to loans Prod local API's"
+  contactDetails:
+    name: "Leena(LoansProd)"
+    email: "Leena@gmail.com"
+  onCallSupport:
+    - (333) 555-1234
+    - (333) 523-1345

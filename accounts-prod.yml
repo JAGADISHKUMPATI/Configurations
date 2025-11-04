@@ -1,0 +1,13 @@
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Accounts Production local API's"
+  contactDetails:
+    name: "Leena(AccountsProd)"
+    email: "{cipher}f54acdeee1ad0549cca28550e7d846da201fdf7cf4e3f37ac40e1e8d17f10253"
+  onCallSupport:
+    - (333) 555-1234
+    - (333) 523-1345

@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to cards QA local API's"
+  contactDetails:
+    name: "Arjun(CardsQA)"
+    email: "Arjun@gmail.com"
+  onCallSupport:
+    - (444) 555-1234
+    - (444) 523-1345
