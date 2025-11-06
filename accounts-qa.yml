@@ -5,10 +5,11 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Accounts QA local API's"
+  message: "Welcome to Accounts Quality(QA) local API's"
   contactDetails:
     name: "Arjun(AccountsQA)"
     email: "Arjun@gmail.com"
   onCallSupport:
     - (444) 555-1234
+
     - (444) 523-1345
